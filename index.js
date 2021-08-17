@@ -9,7 +9,7 @@ var score = 0;
 console.log(chalk.cyan("Welcome ", userName, ", Let's see how much do you know about  The Avengers :) \n"))
 
 
-console.log(chalk.blue.bold("Rules!"))
+console.log(chalk.blue.bold("Rules!!"))
 console.log(chalk.yellow("1. There are total 10 questions, you have to attempt all of them."))
 console.log(chalk.yellow("2. For the right answer score  increases by 2 and for wrong answer deducts by 1"))
 console.log(chalk.yellow("3. Type the index value of the answer."))
